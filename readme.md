@@ -3,7 +3,7 @@
 Hey! I’m **Jhonny Alvarado**, a self-taught **2009-born developer** from Los Angeles.  
 At just 16, I built this entire full-stack AI-powered Instagram lead generation tool — **ClientScopeAI** — from scratch.  
 I specialize in blending **AI, automation, and scraping** to build real-world tools that actually solve problems.  
-This is my first complete app, and the first of many more to come. I'm just getting started.
+This is my first complete app, and the first of many more to come. I'm just getting started. Started my journey officially April 17, 2025.
 
 - 💻 Passionate about backend, AI, and automation
 - 📈 Focused on tools that help people grow their business
@@ -38,10 +38,10 @@ ClientScopeAI is a powerful full-stack application that automates Instagram lead
 
 - 🔍 **Smart Instagram Scraper** (dual-mode: Puppeteer + Apify)
 - 🧠 **AI Lead Scoring System** (bio + vision-based scoring)
-- 🌎 **Proxy Rotation & Cookie Injection** (bypasses login walls)
+- 🌎 **Proxy Rotation & Cookie Injection** (bypasses instagram login walls)
 - 📸 **Screenshot Captures + Previews**
 - 📊 **Built-in Analytics Dashboard**
-- 🗃️ **Session Management & Campaigns**
+- 🗃️ **Session Management**
 - 🧰 **Lead Export (CSV/JSON)**
 - ⚡ **Fully Local & Secure**
 
@@ -62,14 +62,15 @@ ClientScopeAI is a powerful full-stack application that automates Instagram lead
 ### 🔧 Backend
 - Node.js + Express
 - Puppeteer (w/ stealth mode)
-- Apify API fallback
+- Apify API
 - Prisma ORM
 - SQLite
 
 ### 🌐 Infra
-- Webshare Residential Proxies
+- Webshare Residential Proxies (early phases)
+- Apify API Rotating Residential Proxies
 - Localhost Deployment w/ PowerShell
-- Cookie Manager + Retry Logic
+- Smart Cookie Manager Pool + Retry Logic
 
 ---
 
@@ -92,10 +93,6 @@ ClientScopeAI/
 ├── database/ # SQLite via Prisma ORM
 └── scripts/ # PowerShell & batch deployment tools
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧠 Skills Demonstrated
@@ -114,9 +111,9 @@ Edit
 ## 📣 Author
 
 **Jhonny “jchari” Alvarado**  
-🇺🇸 16 y/o Software Developer  
+U.S 16 y/o Software Developer  
 🔗 [Instagram](https://instagram.com/jchari_)  
-📫 DM me or email for freelance work, app demos, or collabs.
+📫 (heresjohnnyalv09@gmail.com) DM me or email for freelance work, app demos, or collabs.
 
 ---
 
