@@ -1,11 +1,11 @@
 # 👋 About Me
 
 Hey! I’m **Jhonny Alvarado**, a self-taught **2009-born developer** from Los Angeles.  
-At just 16, I built this entire full-stack AI-powered Instagram lead generation tool — **ClientScopeAI** — from scratch.  
+At just 16, I started teaching myself how to program from scratch, just from pure desire and passion.  
 I specialize in blending **AI, automation, and scraping** to build real-world tools that actually solve problems.  
-This is my first complete app, and the first of many more to come. I'm just getting started. Started my journey officially April 17, 2025.
+ClientScopeAI is my first complete app, and the first of many more to come. I'm just getting started. Started my journey officially April 17, 2025.
 
-- 💻 Passionate about backend, AI, and automation
+- 💻 Passionate about fullstack, backend, AI, and automation
 - 📈 Focused on tools that help people grow their business
 - 💡 Obsessed with solving problems creatively with code
 - 📍 Based in LA, open to collabs, freelance, and tech growth opportunities
