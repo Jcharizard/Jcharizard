@@ -47,6 +47,7 @@ ShiftSense is a desktop middleware application for sim-racing hardware. It conne
 
 This project helped me learn more about desktop development, hardware input handling, local processes, IPC pipelines, and connecting multiple technologies together in one working tool.
 
+**Github:** https://github.com/Jcharizard/shiftsense
 **Tech used:** JavaScript, TypeScript, Python, Electron, Vite, Node.js  
 **What I practiced:** desktop apps, input processing, virtual controller output, calibration UI, local system tooling
 
@@ -58,6 +59,7 @@ RoastRumble is a real-time 1v1 freestyle rap battle platform where users can mat
 
 This project helped me understand real-time communication, matchmaking logic, WebRTC peer-to-peer audio, Socket.IO state management, and building a user-facing web product with live interactions. :contentReference[oaicite:0]{index=0}
 
+**Github:** https://github.com/Jcharizard/roastrumble
 **Tech used:** Next.js, React, TypeScript, Node.js, Socket.IO, WebRTC, Tailwind CSS  
 **What I practiced:** real-time apps, WebRTC audio, matchmaking, state synchronization, chat safety, deployment
 
@@ -69,6 +71,7 @@ ClientScopeAI is a full-stack lead generation and prospecting dashboard built to
 
 The project taught me how to structure a larger full-stack application, connect a React frontend to an Express backend, manage database models with Prisma and SQLite, run Python scoring logic, and display results in a dashboard-style interface. :contentReference[oaicite:1]{index=1}
 
+**Github:** https://github.com/Jcharizard/clientscoperai
 **Tech used:** React, TypeScript, Node.js, Express, Prisma, SQLite, Python, Puppeteer  
 **What I practiced:** full-stack architecture, backend APIs, database design, dashboard UI, automation, error handling, AI-assisted scoring
 
@@ -78,8 +81,11 @@ The project taught me how to structure a larger full-stack application, connect 
 
 AndroScope Live is an Android security and emulator tooling project focused on learning APK analysis, Android debugging workflows, real-time monitoring, and security testing concepts in a controlled environment.
 
-This project helped me explore ADB, Android emulators, static analysis ideas, Rust/Tauri desktop development, and how security tools are structured. :contentReference[oaicite:2]{index=2}
 
+This project helped me explore ADB, Android emulators, static analysis ideas, Rust/Tauri desktop development, and how security tools are structured.
+
+
+**Github:** https://github.com/Jcharizard/androscope-live
 **Tech used:** React, TypeScript, Rust, Tauri, ADB  
 **What I practiced:** Android tooling, desktop development, emulator workflows, security fundamentals, process monitoring
 
