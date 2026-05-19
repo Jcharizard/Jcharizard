@@ -1,129 +1,125 @@
-# 👋 About Me
+# 👋 Hey, I’m Jhonny Alvarado
 
-Hey! I’m **Jhonny Alvarado**, a self-taught **2009-born developer** from Los Angeles.  
-At just 16, I started teaching myself how to program from scratch, just from pure desire and passion.  
-I specialize in blending **AI, automation, and scraping** to build real-world tools that actually solve problems.  
-ClientScopeAI is my first complete app, and the first of many more to come. I'm just getting started. Started my journey officially April 17, 2025.
+I’m a high school software developer from Los Angeles, focused on building practical software projects across full-stack web development, automation, real-time apps, desktop tools, and AI-assisted systems.
 
-- 💻 Passionate about fullstack, backend, AI, and automation
-- 📈 Focused on tools that help people grow their business
-- 💡 Obsessed with solving problems creatively with code
-- 📍 Based in LA, open to collabs, freelance, and tech growth opportunities
+I started programming seriously in 2025 and have been learning by building real projects from scratch. My goal right now is to keep improving as a developer, build stronger projects, and earn opportunities in software engineering internships, technical programs, freelance work, and developer communities.
+
+I’m especially interested in building tools that solve real problems, connect different systems together, and turn ideas into working products.
 
 ---
 
-# 💼 ClientScopeAI
+## 💻 What I’m Interested In
 
-**Advanced Instagram Lead Generation & AI Scoring Tool — Built by a 16-Year-Old Developer**
-
-ClientScopeAI is a powerful full-stack application that automates Instagram lead discovery, analyzes bios and profile visuals using AI, and helps freelancers and marketers find clients with real business potential — fast.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-Completed-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/tech-stack-Full%20Stack%20App-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/author-jchari-blueviolet?style=flat-square"/>
-</p>
+- Full-stack software engineering
+- Backend systems and APIs
+- Desktop and developer tools
+- Automation and workflow tools
+- Real-time web applications
+- AI-assisted applications
+- Cybersecurity and Android tooling
 
 ---
 
-## 🎥 Demo Video
+## 🛠️ Tech I’ve Worked With
 
-👉 [Watch Full Project Showcase on YouTube](https://www.youtube.com/watch?v=02SLoQG4K_M&t=484s&ab_channel=jchari)
+**Languages**  
+JavaScript, TypeScript, Python, HTML, CSS, SQL, Rust
 
-[![ClientScopeAI Demo](https://img.youtube.com/vi/02SLoQG4K_M/0.jpg)](https://www.youtube.com/watch?v=02SLoQG4K_M)
+**Frontend**  
+React, Next.js, Vite, Tailwind CSS
 
----
+**Backend**  
+Node.js, Express, FastAPI
 
-## 🚀 Features
+**Databases / Tools**  
+SQLite, Prisma, Git, Puppeteer, Selenium, Socket.IO, WebRTC, ADB
 
-- 🔍 **Smart Instagram Scraper** (dual-mode: Puppeteer + Apify)
-- 🧠 **AI Lead Scoring System** (bio + vision-based scoring)
-- 🌎 **Proxy Rotation & Cookie Injection** (bypasses instagram login walls)
-- 📸 **Screenshot Captures + Previews**
-- 📊 **Built-in Analytics Dashboard**
-- 🗃️ **Session Management**
-- 🧰 **Lead Export (CSV/JSON)**
-- ⚡ **Fully Local & Secure**
+**Other Areas**  
+Electron, Tauri, Android emulators, automation, local scripts, and security testing in controlled environments
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Frontend
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
+### 🏎️ ShiftSense
 
-### 🧠 AI System
-- Python (bio_score.py, vision_score.py)
-- JavaScript (instant scoring cache)
+ShiftSense is a desktop middleware application for sim-racing hardware. It connects racing wheel, pedal, and shifter inputs to virtual controller or keyboard outputs for games that do not support certain hardware setups natively.
 
-### 🔧 Backend
-- Node.js + Express
-- Puppeteer (w/ stealth mode)
-- Apify API
-- Prisma ORM
-- SQLite
+This project helped me learn more about desktop development, hardware input handling, local processes, IPC pipelines, and connecting multiple technologies together in one working tool.
 
-### 🌐 Infra
-- Webshare Residential Proxies (early phases)
-- Apify API Rotating Residential Proxies
-- Localhost Deployment w/ PowerShell
-- Smart Cookie Manager Pool + Retry Logic
+**Tech used:** JavaScript, TypeScript, Python, Electron, Vite, Node.js  
+**What I practiced:** desktop apps, input processing, virtual controller output, calibration UI, local system tooling
 
 ---
 
-## 💡 Use Cases
+### 🎤 RoastRumble
 
-- Cold client outreach for freelancers/agencies
-- Influencer lead generation
-- Local business targeting by niche/region
-- AI-assisted prospect filtering
+RoastRumble is a real-time 1v1 freestyle rap battle platform where users can match with another person, join a live audio battle, receive random prompt words, and take turns freestyling over a beat.
 
----
+This project helped me understand real-time communication, matchmaking logic, WebRTC peer-to-peer audio, Socket.IO state management, and building a user-facing web product with live interactions. :contentReference[oaicite:0]{index=0}
 
-## 📁 Project Structure
-
-ClientScopeAI/
-├── frontend/ # React + Tailwind frontend
-├── backend/ # Express + Puppeteer backend
-├── ai/ # Python AI scoring scripts
-├── screenshots/ # Captured Instagram profile previews
-├── database/ # SQLite via Prisma ORM
-└── scripts/ # PowerShell & batch deployment tools
+**Tech used:** Next.js, React, TypeScript, Node.js, Socket.IO, WebRTC, Tailwind CSS  
+**What I practiced:** real-time apps, WebRTC audio, matchmaking, state synchronization, chat safety, deployment
 
 ---
 
-## 🧠 Skills Demonstrated
+### 📊 ClientScopeAI
 
-- Full-stack web development (React, Node.js, Express, Prisma)
-- Web scraping & automation (Puppeteer, Apify)
-- AI integration (bio & vision scoring in Python)
-- Proxy & cookie handling (Webshare + stealth scraping)
-- UI/UX design (custom dark mode dashboard)
-- Git & project structuring
-- Working with APIs, async flows, error handling, and multi-tab architecture
-- Real-world problem solving & resilience through multiple scraper failures
+ClientScopeAI is a full-stack lead generation and prospecting dashboard built to explore web automation, data collection, AI-assisted lead scoring, and business-focused software tools.
+
+The project taught me how to structure a larger full-stack application, connect a React frontend to an Express backend, manage database models with Prisma and SQLite, run Python scoring logic, and display results in a dashboard-style interface. :contentReference[oaicite:1]{index=1}
+
+**Tech used:** React, TypeScript, Node.js, Express, Prisma, SQLite, Python, Puppeteer  
+**What I practiced:** full-stack architecture, backend APIs, database design, dashboard UI, automation, error handling, AI-assisted scoring
 
 ---
 
-## 📣 Author
+### 🔍 AndroScope Live
 
-**Jhonny “jchari” Alvarado**  
-U.S 16 y/o Software Developer  
-🔗 [Instagram](https://instagram.com/jchari_)  
-📫 (heresjohnnyalv09@gmail.com) DM me or email for freelance work, app demos, or collabs.
+AndroScope Live is an Android security and emulator tooling project focused on learning APK analysis, Android debugging workflows, real-time monitoring, and security testing concepts in a controlled environment.
 
----
+This project helped me explore ADB, Android emulators, static analysis ideas, Rust/Tauri desktop development, and how security tools are structured. :contentReference[oaicite:2]{index=2}
 
-## 🔮 What's Next?
-
-ClientScopeAI was my first full-stack vision project. I've learned so much building this from scratch — scraping, AI scoring, data management, you name it. I'm just getting started.
-
-Next project? Even bigger.
+**Tech used:** React, TypeScript, Rust, Tauri, ADB  
+**What I practiced:** Android tooling, desktop development, emulator workflows, security fundamentals, process monitoring
 
 ---
 
-> ⭐ **Star this repo** if you like the project or found it inspiring!  
-> 🎯 Built 100% solo — and it's just the beginning.
+## 🎓 Education
+
+**Piera Barbaglia Shaheen High School**  
+Los Angeles, CA  
+Expected Graduation: June 2026
+
+**Tech Flex Leaders Program — America on Tech**  
+Program Participant  
+Focused on web development, responsive design, JavaScript, and project-based learning.
+
+---
+
+## 📌 Currently Looking For
+
+I’m currently looking for opportunities to grow as a software developer, especially in:
+
+- Software engineering internships
+- Full-stack or backend internships
+- Technical programs for high school students
+- Freelance web development projects
+- Mentorship from experienced developers
+- Open-source or startup-style projects
+
+---
+
+## 📫 Contact
+
+**Email:** heresjohnnyalv09@gmail.com  
+**LinkedIn:** linkedin.com/in/jhonnyalvarado  
+**GitHub:** github.com/Jcharizard  
+
+---
+
+## ⚡ About Me
+
+I’m still early in my journey, but I’m serious about improving. I learn best by building, breaking things, fixing them, and turning ideas into real working projects.
+
+My goal is to become a strong software engineer by combining consistent practice, real projects, and curiosity across different areas of technology.
