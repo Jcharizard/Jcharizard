@@ -48,7 +48,12 @@ ShiftSense is a desktop middleware application for sim-racing hardware. It conne
 This project helped me learn more about desktop development, hardware input handling, local processes, IPC pipelines, and connecting multiple technologies together in one working tool.
 
 **Github:** https://github.com/Jcharizard/shiftsense
+
+<img width="800" height="450" alt="shiftsense1sw" src="https://github.com/user-attachments/assets/866b3a65-05a1-429f-af29-d51aa886b42f" />
+
+
 **Tech used:** JavaScript, TypeScript, Python, Electron, Vite, Node.js  
+
 **What I practiced:** desktop apps, input processing, virtual controller output, calibration UI, local system tooling
 
 ---
@@ -60,6 +65,9 @@ RoastRumble is a real-time 1v1 freestyle rap battle platform where users can mat
 This project helped me understand real-time communication, matchmaking logic, WebRTC peer-to-peer audio, Socket.IO state management, and building a user-facing web product with live interactions. :contentReference[oaicite:0]{index=0}
 
 **Github:** https://github.com/Jcharizard/roastrumble
+
+
+
 **Tech used:** Next.js, React, TypeScript, Node.js, Socket.IO, WebRTC, Tailwind CSS  
 **What I practiced:** real-time apps, WebRTC audio, matchmaking, state synchronization, chat safety, deployment
 
@@ -67,11 +75,15 @@ This project helped me understand real-time communication, matchmaking logic, We
 
 ### 📊 ClientScopeAI
 
-ClientScopeAI is a full-stack lead generation and prospecting dashboard built to explore web automation, data collection, AI-assisted lead scoring, and business-focused software tools.
+ClientScopeAI is a full-stack Instagram lead generation and prospecting dashboard built to explore web automation, data collection, AI-assisted lead scoring, and be a business-focused software tool.
 
-The project taught me how to structure a larger full-stack application, connect a React frontend to an Express backend, manage database models with Prisma and SQLite, run Python scoring logic, and display results in a dashboard-style interface. :contentReference[oaicite:1]{index=1}
+The project taught me how to structure a larger full-stack application, connect a React frontend to an Express backend, manage database models with Prisma and SQLite, run Python scoring logic, and display polled results in a dashboard-style interface. :contentReference[oaicite:1]{index=1}
 
 **Github:** https://github.com/Jcharizard/clientscoperai
+
+<img width="800" height="450" alt="clientscope1" src="https://github.com/user-attachments/assets/7b01715a-97df-4da7-a43f-a35ce452c08d" />
+
+
 **Tech used:** React, TypeScript, Node.js, Express, Prisma, SQLite, Python, Puppeteer  
 **What I practiced:** full-stack architecture, backend APIs, database design, dashboard UI, automation, error handling, AI-assisted scoring
 
