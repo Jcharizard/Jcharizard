@@ -66,6 +66,7 @@ This project helped me understand real-time communication, matchmaking logic, We
 
 **Github:** https://github.com/Jcharizard/roastrumble
 
+<img width="426" height="240" alt="roastrumbleshowcase1" src="https://github.com/user-attachments/assets/0c27b923-b576-4220-8c5c-f7f988b9189c" />
 
 
 **Tech used:** Next.js, React, TypeScript, Node.js, Socket.IO, WebRTC, Tailwind CSS  
