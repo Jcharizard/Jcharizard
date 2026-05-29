@@ -1,29 +1,31 @@
+
 # 👋 Hey, I’m Jhonny Alvarado
 
-I’m a high school software developer from Los Angeles, focused on building practical software projects across full-stack web development, automation, real-time apps, desktop tools, and AI-assisted systems.
+I’m a high school software developer from Los Angeles building practical software across full-stack web development, automation, desktop tools, real-time applications, and AI-assisted systems.
 
-I started programming seriously in 2025 and have been learning by building real projects from scratch. My goal right now is to keep improving as a developer, build stronger projects, and earn opportunities in software engineering internships, technical programs, freelance work, and developer communities.
+I started programming seriously in 2025 and have been learning by building real projects from scratch. I’m especially interested in software that connects different systems together, solves real problems, and turns ideas into working products. Growing up, I was always drawn to computers and jailbreaking, largely because my brother got me into video games and tech at a young age.
 
-I’m especially interested in building tools that solve real problems, connect different systems together, and turn ideas into working products.
-
----
-
-## 💻 What I’m Interested In
-
-- Full-stack software engineering
-- Backend systems and APIs
-- Desktop and developer tools
-- Automation and workflow tools
-- Real-time web applications
-- AI-assisted applications
-- Cybersecurity and Android tooling
+Right now, I’m focused on growing as a software engineer, strengthening my project portfolio, and earning opportunities through internships, technical programs, freelance work, open-source projects, and developer communities.
 
 ---
 
-## 🛠️ Tech I’ve Worked With
+## 🚀 What I Build
+
+- Full-stack web applications
+- Backend APIs and database-driven dashboards
+- Desktop apps and local developer tools
+- Automation and workflow systems
+- Real-time apps with live communication
+- AI-assisted scoring and analysis tools
+- Android emulator and security tooling in controlled environments
+- Projects I think are funny or personally fix a problem I've had
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**  
-JavaScript, TypeScript, Python, HTML, CSS, SQL, Rust
+JavaScript, TypeScript, Python, HTML, CSS, SQL, Java, Rust
 
 **Frontend**  
 React, Next.js, Vite, Tailwind CSS
@@ -31,30 +33,31 @@ React, Next.js, Vite, Tailwind CSS
 **Backend**  
 Node.js, Express, FastAPI
 
-**Databases / Tools**  
-SQLite, Prisma, Git, Puppeteer, Selenium, Socket.IO, WebRTC, ADB
+**Databases & ORMs**  
+SQLite, Prisma
+
+**Tools & Systems**  
+Git, Puppeteer, Selenium, Socket.IO, WebRTC, ADB, Electron, Tauri
 
 **Other Areas**  
-Electron, Tauri, Android emulators, automation, local scripts, and security testing in controlled environments
+Automation, local scripts, desktop tooling, Android emulators, IPC pipelines, controlled-environment security testing
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### 🏎️ ShiftSense
 
-ShiftSense is a desktop middleware application for sim-racing hardware. It connects racing wheel, pedal, and shifter inputs to virtual controller or keyboard outputs for games that do not support certain hardware setups natively.
+ShiftSense is a desktop middleware application for sim-racing hardware. It maps raw USB racing wheel, pedal, and shifter input into virtual controller or keyboard output, helping games support hardware setups that may not work natively.
 
-This project helped me learn more about desktop development, hardware input handling, local processes, IPC pipelines, and connecting multiple technologies together in one working tool.
+This project pushed me into desktop development, hardware input handling, virtual controller output, local backend processes, and real-time communication between an Electron interface and a Python backend.
 
-**Github:** https://github.com/Jcharizard/shiftsense
+**Repository:** https://github.com/Jcharizard/shiftsense
 
-<img width="800" height="450" alt="shiftsense1sw" src="https://github.com/user-attachments/assets/866b3a65-05a1-429f-af29-d51aa886b42f" />
-
+<img width="800" height="450" alt="ShiftSense preview" src="https://github.com/user-attachments/assets/866b3a65-05a1-429f-af29-d51aa886b42f" />
 
 **Tech used:** JavaScript, TypeScript, Python, Electron, Vite, Node.js  
-
-**What I practiced:** desktop apps, input processing, virtual controller output, calibration UI, local system tooling
+**What I practiced:** Desktop apps, hardware input processing, virtual controller output, calibration UI, local system tooling, IPC pipelines
 
 ---
 
@@ -62,45 +65,45 @@ This project helped me learn more about desktop development, hardware input hand
 
 RoastRumble is a real-time 1v1 freestyle rap battle platform where users can match with another person, join a live audio battle, receive random prompt words, and take turns freestyling over a beat.
 
-This project helped me understand real-time communication, matchmaking logic, WebRTC peer-to-peer audio, Socket.IO state management, and building a user-facing web product with live interactions. :contentReference[oaicite:0]{index=0}
+The project helped me learn how to build live user-facing apps with matchmaking, real-time state synchronization, peer-to-peer audio, timed turns, mic permissions, and chat safety.
 
-**Github:** https://github.com/Jcharizard/roastrumble
+**Repository:** https://github.com/Jcharizard/roastrumble
 
-<img width="426" height="240" alt="roastrumbleshowcase1" src="https://github.com/user-attachments/assets/0c27b923-b576-4220-8c5c-f7f988b9189c" />
-
+<img width="426" height="240" alt="RoastRumble preview" src="https://github.com/user-attachments/assets/0c27b923-b576-4220-8c5c-f7f988b9189c" />
 
 **Tech used:** Next.js, React, TypeScript, Node.js, Socket.IO, WebRTC, Tailwind CSS  
-**What I practiced:** real-time apps, WebRTC audio, matchmaking, state synchronization, chat safety, deployment
+**What I practiced:** Real-time apps, WebRTC audio, matchmaking, state synchronization, backend game/session logic, input field/chat safety, deployment
 
 ---
 
 ### 📊 ClientScopeAI
 
-ClientScopeAI is a full-stack Instagram lead generation and prospecting dashboard built to explore web automation, data collection, AI-assisted lead scoring, and be a business-focused software tool.
+ClientScopeAI is a full-stack lead generation and prospecting dashboard built to explore web automation, data collection, AI-assisted lead scoring, and business-focused software tooling.
 
-The project taught me how to structure a larger full-stack application, connect a React frontend to an Express backend, manage database models with Prisma and SQLite, run Python scoring logic, and display polled results in a dashboard-style interface. :contentReference[oaicite:1]{index=1}
+It includes a React dashboard, Express backend, Prisma/SQLite database structure, Puppeteer automation, and Python-based scoring logic. This was one of my biggest projects because it taught me how to structure a larger full-stack application and connect multiple systems together.
 
-**Github:** https://github.com/Jcharizard/clientscoperai
+**Repository:** https://github.com/Jcharizard/clientscoperai
 
-<img width="800" height="450" alt="clientscope1" src="https://github.com/user-attachments/assets/7b01715a-97df-4da7-a43f-a35ce452c08d" />
-
+<img width="800" height="450" alt="ClientScopeAI preview" src="https://github.com/user-attachments/assets/7b01715a-97df-4da7-a43f-a35ce452c08d" />
 
 **Tech used:** React, TypeScript, Node.js, Express, Prisma, SQLite, Python, Puppeteer  
-**What I practiced:** full-stack architecture, backend APIs, database design, dashboard UI, automation, error handling, AI-assisted scoring
+**What I practiced:** Full-stack architecture, backend APIs, database design, dashboard UI, automation, error handling, lead scoring, AI-assisted analysis
 
 ---
 
 ### 🔍 AndroScope Live
 
-AndroScope Live is an Android security and emulator tooling project focused on learning APK analysis, Android debugging workflows, real-time monitoring, and security testing concepts in a controlled environment.
+AndroScope Live is an Android security and emulator tooling project focused on APK analysis, Android debugging workflows, real-time monitoring, and security testing concepts in a controlled environment.
+
+This project helped me explore how desktop emulator security tools are structured, how Android Debug Bridge can interact with emulators, and how frontend dashboards can connect to lower-level tooling.
+
+**Repository:** https://github.com/Jcharizard/androscope-live
+
+<img width="426" height="240" alt="androscopedecompgif" src="https://github.com/user-attachments/assets/8ae4c393-79eb-4fde-a8e2-70f071619fe1" />
 
 
-This project helped me explore ADB, Android emulators, static analysis ideas, Rust/Tauri desktop development, and how security tools are structured.
-
-
-**Github:** https://github.com/Jcharizard/androscope-live
-**Tech used:** React, TypeScript, Rust, Tauri, ADB  
-**What I practiced:** Android tooling, desktop development, emulator workflows, security fundamentals, process monitoring
+**Tech used:** React, TypeScript, Rust, Tauri, Python, ADB  
+**What I practiced:** Android tooling, desktop development, emulator workflows, real-time monitoring, APK security fundamentals, process/system analysis
 
 ---
 
@@ -108,32 +111,32 @@ This project helped me explore ADB, Android emulators, static analysis ideas, Ru
 
 **Piera Barbaglia Shaheen High School**  
 Los Angeles, CA  
-Expected Graduation: June 2026
+Expected Graduation: June 2027
 
 **Tech Flex Leaders Program — America on Tech**  
-Program Participant  
-Focused on web development, responsive design, JavaScript, and project-based learning.
+Year-long Program Participant  
+Focused on web development, responsive design, JavaScript, backend fundamentals, and project-based learning.
 
 ---
 
 ## 📌 Currently Looking For
 
-I’m currently looking for opportunities to grow as a software developer, especially in:
+I’m currently looking for opportunities to grow as a developer, especially in:
 
 - Software engineering internships
 - Full-stack or backend internships
 - Technical programs for high school students
 - Freelance web development projects
-- Mentorship from experienced developers
 - Open-source or startup-style projects
+- Mentorship from experienced developers
 
 ---
 
 ## 📫 Contact
 
 **Email:** heresjohnnyalv09@gmail.com  
-**LinkedIn:** linkedin.com/in/jhonnyalvarado  
-**GitHub:** github.com/Jcharizard  
+**LinkedIn:** https://linkedin.com/in/jhonnyalvarado  
+**GitHub:** https://github.com/Jcharizard
 
 ---
 
@@ -141,4 +144,5 @@ I’m currently looking for opportunities to grow as a software developer, espec
 
 I’m still early in my journey, but I’m serious about improving. I learn best by building, breaking things, fixing them, and turning ideas into real working projects.
 
-My goal is to become a strong software engineer by combining consistent practice, real projects, and curiosity across different areas of technology.
+My goal is to become a strong software engineer by combining consistent practice, real-world projects, curiosity, and the ability to learn fast.
+```
