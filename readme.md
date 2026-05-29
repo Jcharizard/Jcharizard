@@ -1,148 +1,137 @@
+<div align="center">
 
-# 👋 Hey, I’m Jhonny Alvarado
+# Jhonny Alvarado
 
-I’m a high school software developer from Los Angeles building practical software across full-stack web development, automation, desktop tools, real-time applications, and AI-assisted systems.
+**Software Developer · Los Angeles, CA**
 
-I started programming seriously in 2025 and have been learning by building real projects from scratch. I’m especially interested in software that connects different systems together, solves real problems, and turns ideas into working products. Growing up, I was always drawn to computers and jailbreaking, largely because my brother got me into video games and tech at a young age.
+*Building practical software across full-stack web, desktop, automation, and AI-assisted systems.*
 
-Right now, I’m focused on growing as a software engineer, strengthening my project portfolio, and earning opportunities through internships, technical programs, freelance work, open-source projects, and developer communities.
+[![GitHub](https://img.shields.io/badge/GitHub-Jcharizard-181717?style=flat-square&logo=github)](https://github.com/Jcharizard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhonnyalvarado-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jhonnyalvarado)
+[![Email](https://img.shields.io/badge/Email-heresjohnnyalv09@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:heresjohnnyalv09@gmail.com)
 
----
-
-## 🚀 What I Build
-
-- Full-stack web applications
-- Backend APIs and database-driven dashboards
-- Desktop apps and local developer tools
-- Automation and workflow systems
-- Real-time apps with live communication
-- AI-assisted scoring and analysis tools
-- Android emulator and security tooling in controlled environments
-- Projects I think are funny or personally fix a problem I've had
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Languages**  
-JavaScript, TypeScript, Python, HTML, CSS, SQL, Java, Rust
+I started programming seriously in 2025 and have been learning by shipping real projects from scratch. I'm especially drawn to software that connects different systems together, solves real problems, and turns ideas into working products. Growing up, I was always pulled toward computers — jailbreaking, tinkering, taking things apart — largely because my brother got me into games and tech at an early age.
 
-**Frontend**  
-React, Next.js, Vite, Tailwind CSS
-
-**Backend**  
-Node.js, Express, FastAPI
-
-**Databases & ORMs**  
-SQLite, Prisma
-
-**Tools & Systems**  
-Git, Puppeteer, Selenium, Socket.IO, WebRTC, ADB, Electron, Tauri
-
-**Other Areas**  
-Automation, local scripts, desktop tooling, Android emulators, IPC pipelines, controlled-environment security testing
+Right now I'm focused on growing as a software engineer, strengthening my project portfolio, and earning opportunities through internships, technical programs, freelance work, and open-source projects.
 
 ---
 
-## ⭐ Featured Projects
+## Tech Stack
+
+```
+Languages     JavaScript · TypeScript · Python · Java · Rust · SQL · HTML/CSS
+Frontend      React · Next.js · Vite · Tailwind CSS
+Backend       Node.js · Express · FastAPI
+Databases     SQLite · Prisma
+Tooling       Git · Puppeteer · Selenium · Socket.IO · WebRTC · ADB · Electron · Tauri
+Other         Automation · IPC pipelines · Desktop tooling · Android emulators · Security testing
+```
+
+---
+
+## Projects
 
 ### 🏎️ ShiftSense
+> Desktop middleware for sim-racing hardware
 
-ShiftSense is a desktop middleware application for sim-racing hardware. It maps raw USB racing wheel, pedal, and shifter input into virtual controller or keyboard output, helping games support hardware setups that may not work natively.
+[![Repo](https://img.shields.io/badge/Repo-shiftsense-181717?style=flat-square&logo=github)](https://github.com/Jcharizard/shiftsense)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-This project pushed me into desktop development, hardware input handling, virtual controller output, local backend processes, and real-time communication between an Electron interface and a Python backend.
+Maps raw USB racing wheel, pedal, and shifter input into virtual controller or keyboard output — enabling hardware setups that don't work natively with certain games. Built a full calibration UI and IPC pipeline between an Electron frontend and a Python backend.
 
-**Repository:** https://github.com/Jcharizard/shiftsense
+<img width="800" alt="ShiftSense preview" src="https://github.com/user-attachments/assets/866b3a65-05a1-429f-af29-d51aa886b42f" />
 
-<img width="800" height="450" alt="ShiftSense preview" src="https://github.com/user-attachments/assets/866b3a65-05a1-429f-af29-d51aa886b42f" />
-
-**Tech used:** JavaScript, TypeScript, Python, Electron, Vite, Node.js  
-**What I practiced:** Desktop apps, hardware input processing, virtual controller output, calibration UI, local system tooling, IPC pipelines
+**Built:** desktop app · hardware input processing · virtual controller output · calibration UI · IPC pipeline · local system tooling
 
 ---
 
 ### 🎤 RoastRumble
+> Real-time 1v1 freestyle rap battle platform
 
-RoastRumble is a real-time 1v1 freestyle rap battle platform where users can match with another person, join a live audio battle, receive random prompt words, and take turns freestyling over a beat.
+[![Repo](https://img.shields.io/badge/Repo-roastrumble-181717?style=flat-square&logo=github)](https://github.com/Jcharizard/roastrumble)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc)
 
-The project helped me learn how to build live user-facing apps with matchmaking, real-time state synchronization, peer-to-peer audio, timed turns, mic permissions, and chat safety.
+Users matchmake, join a live audio session via WebRTC, receive random prompt words, and take turns freestyling over a beat. Implemented matchmaking logic, Socket.IO state sync, timed turns, mic permissions, and chat safety.
 
-**Repository:** https://github.com/Jcharizard/roastrumble
+<img width="426" alt="RoastRumble preview" src="https://github.com/user-attachments/assets/0c27b923-b576-4220-8c5c-f7f988b9189c" />
 
-<img width="426" height="240" alt="RoastRumble preview" src="https://github.com/user-attachments/assets/0c27b923-b576-4220-8c5c-f7f988b9189c" />
-
-**Tech used:** Next.js, React, TypeScript, Node.js, Socket.IO, WebRTC, Tailwind CSS  
-**What I practiced:** Real-time apps, WebRTC audio, matchmaking, state synchronization, backend game/session logic, input field/chat safety, deployment
+**Built:** real-time matchmaking · WebRTC peer-to-peer audio · Socket.IO state sync · session/game logic · input safety · deployment
 
 ---
 
 ### 📊 ClientScopeAI
+> Full-stack lead generation and prospecting dashboard
 
-ClientScopeAI is a full-stack lead generation and prospecting dashboard built to explore web automation, data collection, AI-assisted lead scoring, and business-focused software tooling.
+[![Repo](https://img.shields.io/badge/Repo-clientscoperai-181717?style=flat-square&logo=github)](https://github.com/Jcharizard/clientscoperai)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
 
-It includes a React dashboard, Express backend, Prisma/SQLite database structure, Puppeteer automation, and Python-based scoring logic. This was one of my biggest projects because it taught me how to structure a larger full-stack application and connect multiple systems together.
+React dashboard connected to an Express API backed by Prisma/SQLite. Puppeteer handles web automation; Python runs AI-assisted lead scoring logic. Polled results surface live in the dashboard UI. One of my most architecturally complex projects to date.
 
-**Repository:** https://github.com/Jcharizard/clientscoperai
+<img width="800" alt="ClientScopeAI preview" src="https://github.com/user-attachments/assets/7b01715a-97df-4da7-a43f-a35ce452c08d" />
 
-<img width="800" height="450" alt="ClientScopeAI preview" src="https://github.com/user-attachments/assets/7b01715a-97df-4da7-a43f-a35ce452c08d" />
-
-**Tech used:** React, TypeScript, Node.js, Express, Prisma, SQLite, Python, Puppeteer  
-**What I practiced:** Full-stack architecture, backend APIs, database design, dashboard UI, automation, error handling, lead scoring, AI-assisted analysis
+**Built:** full-stack architecture · REST API design · database modeling · dashboard UI · automation pipeline · AI-assisted scoring
 
 ---
 
 ### 🔍 AndroScope Live
+> Android security and emulator tooling desktop app
 
-AndroScope Live is an Android security and emulator tooling project focused on APK analysis, Android debugging workflows, real-time monitoring, and security testing concepts in a controlled environment.
+[![Repo](https://img.shields.io/badge/Repo-androscope--live-181717?style=flat-square&logo=github)](https://github.com/Jcharizard/androscope-live)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-This project helped me explore how desktop emulator security tools are structured, how Android Debug Bridge can interact with emulators, and how frontend dashboards can connect to lower-level tooling.
+Desktop app for APK analysis, ADB debugging workflows, and real-time process monitoring in controlled environments. Rust/Tauri backend connects to a React frontend dashboard; Python handles static analysis logic.
 
-**Repository:** https://github.com/Jcharizard/androscope-live
+<img width="426" alt="AndroScope Live preview" src="https://github.com/user-attachments/assets/8ae4c393-79eb-4fde-a8e2-70f071619fe1" />
 
-<img width="426" height="240" alt="androscopedecompgif" src="https://github.com/user-attachments/assets/8ae4c393-79eb-4fde-a8e2-70f071619fe1" />
-
-
-**Tech used:** React, TypeScript, Rust, Tauri, Python, ADB  
-**What I practiced:** Android tooling, desktop development, emulator workflows, real-time monitoring, APK security fundamentals, process/system analysis
+**Built:** Android tooling · ADB integration · desktop app architecture · real-time monitoring · APK analysis · emulator workflows
 
 ---
 
-## 🎓 Education
+## Education
 
-**Piera Barbaglia Shaheen High School**  
-Los Angeles, CA  
+**Pierra Barbaglia Shaheen Highschool** — Los Angeles, CA  
 Expected Graduation: June 2027
 
 **Tech Flex Leaders Program — America on Tech**  
-Year-long Program Participant  
-Focused on web development, responsive design, JavaScript, backend fundamentals, and project-based learning.
+Year-long program · Web development, responsive design, JavaScript, backend fundamentals, and project-based learning
 
 ---
 
-## 📌 Currently Looking For
+## Open To
 
-I’m currently looking for opportunities to grow as a developer, especially in:
-
-- Software engineering internships
-- Full-stack or backend internships
-- Technical programs for high school students
-- Freelance web development projects
-- Open-source or startup-style projects
-- Mentorship from experienced developers
-
----
-
-## 📫 Contact
-
-**Email:** heresjohnnyalv09@gmail.com  
-**LinkedIn:** https://linkedin.com/in/jhonnyalvarado  
-**GitHub:** https://github.com/Jcharizard
+| Opportunity |
+|---|
+| Software engineering internships |
+| Full-stack / backend internships |
+| Freelance web development |
+| Open-source & startup projects|
+| Developer mentorship |
 
 ---
 
-## ⚡ About Me
+<div align="center">
 
-I’m still early in my journey, but I’m serious about improving. I learn best by building, breaking things, fixing them, and turning ideas into real working projects.
+*I learn best by building, breaking things, fixing them, and turning ideas into real working products.*  
+*Goal: become a strong software engineer through consistent practice, real projects, and curiosity.*
 
-My goal is to become a strong software engineer by combining consistent practice, real-world projects, curiosity, and the ability to learn fast.
-```
+**→ [github.com/Jcharizard](https://github.com/Jcharizard)**
+
+</div>
